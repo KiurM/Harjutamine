@@ -2,3 +2,5 @@ GitHub on pilvetarkvara, kus hoitakse peamiselt scripte ja jagatakse neid omavah
 Kasutajad on kõik, kes programmeerimisest huvitatud.
 
 Mina saan GitHubi kooli tööde salvestamiseks ja programmide allalaadimiseks kasutada.
+
+GitHub lasti välja aastal 2008 aprillis Tom Prestion-Werneri, Chris Wansrathi, P. J. Hyetti ja Scott Chaconi poolt, enne seda oli paar kuud GitHub olnud avatud betatestijatele.
