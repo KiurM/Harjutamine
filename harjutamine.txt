@@ -1,2 +1,4 @@
 GitHub on pilvetarkvara, kus hoitakse peamiselt scripte ja jagatakse neid omavahel. Kasutatakse tõsise töö tegemiseks, kui niisama koodide allalaadimiseks ja jagamiseks. 
 Kasutajad on kõik, kes programmeerimisest huvitatud.
+
+Mina saan GitHubi kooli tööde salvestamiseks ja programmide allalaadimiseks kasutada.
